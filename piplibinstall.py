@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#creado por h4cker0
 import subprocess
 import argparse
 import os
