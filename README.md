@@ -1,6 +1,7 @@
 # pip-lib-install - Instalacion De Libreria De Forma Local.
-<h2> Una alternativa de instalacion de librerias de forma local que ofreces solucion al error :</h2>
 
+<h2> Una alternativa de instalacion de librerias de forma local que ofreces solucion al error :</h2>
+    
     > error: externally-managed-environment
 
     > × This environment is externally managed
@@ -25,3 +26,4 @@
 
 # Uso
      sudo python piplibinstall.py -m {LIBRERIA}
+     #creado por nouser-h4cker0
