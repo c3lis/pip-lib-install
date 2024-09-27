@@ -24,4 +24,4 @@
 
 
 # Uso
-     sudo python piplibinstall.py {LIBRERIA}
+     sudo python piplibinstall.py -m {LIBRERIA}
